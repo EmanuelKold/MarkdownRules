@@ -22,7 +22,7 @@
 ~~~
 ### Citas
 ~~~
-> Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
+> Texto de ejemplo para una cita - Autor.
 ~~~
 #### Ejemplo:
 > Texto de ejemplo para una cita - Autor.
