@@ -41,5 +41,8 @@
 [Texto del link](link)
 ~~~
 ### Lineas de codigo
+~~~
+` Esto es una linea de codigo `
+~~~
 ` Esto es una linea de codigo `
 
